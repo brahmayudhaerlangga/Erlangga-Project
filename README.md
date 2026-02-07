@@ -40,9 +40,8 @@ Detailed documentation, methodology, and code are available within each project 
 * 🔗 [Criminality Factors Analysis (Statistical Modeling)](link-ke-repo-anda)
 
 #### 📊 Other (Visualization, Dashboard, SQL)
-* 🔗 [Operational Workflow Automation (Google Apps Script)](link-ke-repo-anda)
-* 🔗 [Business Intelligence Dashboard](link-ke-repo-anda)
-* 🔗 [SQL Data Analysis](link-ke-repo-anda)
+* 🔗 [Dashboard R Shiny]()
+* 🔗 [SQL Data Analysis](https://github.com/brahmayudhaerlangga/Erlangga-Project/tree/main/Database)
 
 ---
 
