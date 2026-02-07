@@ -18,12 +18,19 @@ Detailed documentation, methodology, and code are available within each project 
 ---
 
 ### 🛠️ Technical Skills
+### 🛠️ Technical Skills
 
-| **Programming** | **Data Science & ML** | **Tools & Database** |
-| :--- | :--- | :--- |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) | TensorFlow, Keras, Scikit-learn | SQL|
-| JavaScript (Apps Script) | Statistical Modeling | Rshiny |
-| | Time Series (ARIMA/LSTM) | Git & GitHub |
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google-apps-script&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-IBM-blue?style=for-the-badge&logo=ibm&logoColor=white)
+![Minitab](https://img.shields.io/badge/Minitab-Stat-green?style=for-the-badge)
+
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 ---
 
