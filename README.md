@@ -40,7 +40,7 @@ Detailed documentation, methodology, and code are available within each project 
 * 🔗 [Criminality Factors Analysis (Statistical Modeling)](link-ke-repo-anda)
 
 #### 📊 Other (Visualization, Dashboard, SQL)
-* 🔗 [Dashboard R Shiny]()
+* 🔗 [Visualization & Dashboard](https://github.com/brahmayudhaerlangga/Erlangga-Project/tree/main/Visualization%20%26%20Dashboard)
 * 🔗 [SQL Data Analysis](https://github.com/brahmayudhaerlangga/Erlangga-Project/tree/main/Database)
 
 ---
