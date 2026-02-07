@@ -36,8 +36,8 @@ Detailed documentation, methodology, and code are available within each project 
 ### 📂 Project Directory
 
 #### 🤖 Machine Learning & Deep Learning
-* 🔗 [Forecast]([link-ke-repo-anda](https://github.com/brahmayudhaerlangga/Erlangga-Project/tree/main/Machine%20Learning%20%26%20Deep%20Learning/Forecast))
-* 🔗 [Criminality Factors Analysis (Statistical Modeling)](link-ke-repo-anda)
+* 🔗 [Forecast](https://github.com/brahmayudhaerlangga/Erlangga-Project/tree/main/Machine%20Learning%20%26%20Deep%20Learning/Forecast)
+* 🔗 [Classification](https://github.com/brahmayudhaerlangga/Erlangga-Project/tree/main/Machine%20Learning%20%26%20Deep%20Learning/Classification)
 
 #### 📊 Other (Visualization, Dashboard, SQL)
 * 🔗 [Visualization & Dashboard](https://github.com/brahmayudhaerlangga/Erlangga-Project/tree/main/Visualization%20%26%20Dashboard)
