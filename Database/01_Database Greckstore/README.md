@@ -44,8 +44,8 @@ Sistem dilengkapi dengan *Stored Procedures* untuk analisis bisnis instan:
 3.  **`Nota_Transaksi(ID_Pesan)`**: Menghasilkan struk belanja/nota pembelian yang detail, mencakup perhitungan diskon member dan ongkos kirim.
 
 ## 👥 Authors
-* **Giffani Rizky Febrian** (5003221014)
-* **Brahmayudha Erlangga Putra** (5003221084)
-* **Rizal Afandi** (5003221116)
+* **Giffani Rizky Febrian**
+* **Brahmayudha Erlangga Putra**
+* **Rizal Afandi**
 
 **Departemen Statistika** Fakultas Sains dan Analitika Data - Institut Teknologi Sepuluh Nopember (ITS)
