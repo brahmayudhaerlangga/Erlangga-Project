@@ -49,6 +49,3 @@ Sistem dilengkapi dengan *Stored Procedures* untuk analisis bisnis instan:
 * **Rizal Afandi** (5003221116)
 
 **Departemen Statistika** Fakultas Sains dan Analitika Data - Institut Teknologi Sepuluh Nopember (ITS)
-
----
-*Dibuat untuk memenuhi Tugas Besar Mata Kuliah Basis Data B Tahun 2023/2024.*
