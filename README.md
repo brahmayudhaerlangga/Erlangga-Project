@@ -21,8 +21,8 @@ Detailed documentation, methodology, and code are available within each project 
 
 | **Programming** | **Data Science & ML** | **Tools & Database** |
 | :--- | :--- | :--- |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) | TensorFlow, Keras, Scikit-learn | SQL, Google BigQuery |
-| JavaScript (Apps Script) | Statistical Modeling | Tableau, Looker Studio |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) | TensorFlow, Keras, Scikit-learn | SQL|
+| JavaScript (Apps Script) | Statistical Modeling | Rshiny |
 | | Time Series (ARIMA/LSTM) | Git & GitHub |
 
 ---
