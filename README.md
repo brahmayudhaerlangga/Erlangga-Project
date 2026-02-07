@@ -18,7 +18,6 @@ Detailed documentation, methodology, and code are available within each project 
 ---
 
 ### 🛠️ Technical Skills
-### 🛠️ Technical Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -49,5 +48,5 @@ Detailed documentation, methodology, and code are available within each project 
 
 ### 📫 Contact
 
-* [LinkedIn](https://www.linkedin.com/in/rangga-brahmayudha/)
-* [Email](mailto:email-anda@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/brahmayudhaaerlangga/)
+* [Email](mailto:rangga.brahmayuda2015@gmail.com)
