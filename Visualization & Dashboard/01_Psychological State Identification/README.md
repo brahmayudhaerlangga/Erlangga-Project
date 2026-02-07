@@ -1,6 +1,5 @@
 # Psychological State Identification Dashboard 🧠
 
-![Project Status](https://img.shields.io/badge/Status-Completed-success)
 ![Course](https://img.shields.io/badge/Course-Data_Mining_A-blue)
 ![Tools](https://img.shields.io/badge/Tools-R_Shiny_%7C_Python-green)
 
