@@ -1,4 +1,4 @@
-# Psychological State Identification Dashboard 🧠
+# Stress Level Dashboard 🧠
 
 ![Course](https://img.shields.io/badge/Course-Data_Mining_A-blue)
 ![Tools](https://img.shields.io/badge/Tools-R_Shiny_%7C_Python-green)
